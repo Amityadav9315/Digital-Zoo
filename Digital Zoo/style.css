@@ -1,0 +1,11 @@
+  body {
+            background-color: #095f1a;
+            color: whitesmoke;
+            text-align: center; /* This will center inline elements like <h1> and <img> */
+        }
+
+        img {
+            border-radius: 30px;
+            width: 40%;
+            height: auto;
+        }
